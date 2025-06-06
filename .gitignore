@@ -1,0 +1,13 @@
+# Ignore everything by default
+*.cfg
+!printer.cfg
+!macro.cfg
+
+# Optional: ignore backup and temp files
+*.bkp
+*.bin
+
+# Ignore editor/system files
+*.swp
+*.tmp
+.DS_Store
